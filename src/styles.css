@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  flex-grow: initial; 
+  position: absolute;
+
+}
+.reacttail {
+  position: relative;
+  display: flex;
+}
